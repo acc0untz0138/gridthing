@@ -1,4 +1,5 @@
-# GridThing
-GRID SITE FOR TRACKERHUB WOOOOO
+# TrackerHub Artist Grid
 
-https://gridguy101.github.io/gridthing/
+Artist Grid Site for every rapper's unreleased tracker (forked from https://gridguy101.github.io/gridthing)
+
+https://artistgrid.netlify.app/
