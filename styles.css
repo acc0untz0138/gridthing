@@ -71,6 +71,14 @@ h1 {
   margin: 0;
 }
 
+.title {
+  color: #bfffbf; /* Text color */
+  margin-top: 100px; /* Move the title further down */
+  font-family: 'Arial', sans-serif; /* Change the font */
+  font-size: 2.5em; /* Adjust font size */
+  text-align: center; /* Ensure it's centered */
+}
+
 #sort {
   height: 20px;
   border-radius: 90px;
