@@ -1,5 +1,5 @@
 # TrackerHub Artist Grid
 
-Artist Grid Site for every rapper's unreleased tracker (forked from https://gridguy101.github.io/gridthing)
+Website containing every artist's unreleased music in their respective trackers, in the form of a grid. (forked from https://gridguy101.github.io/gridthing)
 
 https://artistgrid.netlify.app/
